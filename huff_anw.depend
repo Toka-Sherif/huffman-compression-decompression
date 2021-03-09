@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610391480 source:c:\users\tokay\documents\term(7)\algorithms\huff_anw\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<bitset>
+	<vector>
+	<string.h>
+	<bits/stdc++.h>
+	<unordered_map>
+	<bits/stdc++.h>
+
